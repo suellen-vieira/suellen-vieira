@@ -20,7 +20,6 @@ BSc in Physics and currently pursuing an MSc in Physics with a focus on **Quantu
 
 📂 **Check my repositories:**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suellen-vieira&show_icons=true&theme=radical)](https://github.com/suellen-vieira)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suellen-vieira&layout=compact&theme=radical)](https://github.com/suellen-vieira)
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suellenvieiradasilva/)
