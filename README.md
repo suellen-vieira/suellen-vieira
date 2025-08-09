@@ -9,7 +9,8 @@ BSc in Physics and currently pursuing an MSc in Physics with a focus on **Quantu
 - Machine Learning & Deep Learning  
 - Computer Vision (CNNs, YOLO, Image Segmentation)  
 - Natural Language Processing (NLP)  
-- Data Analysis & Visualization  
+- Data Analysis & Visualization
+- Statistics & Probability
 - Quantum Computing
 
 🚀 **Projects:**  
