@@ -13,14 +13,17 @@ BSc in Physics and currently pursuing an MSc in Physics with a focus on **Quantu
 - Statistics & Probability
 - Quantum Computing
 
-🚀 **Projects:**  
-- 🛍️ **Sales Forecasting** – Linear Regression for sales prediction.  
-- 🔍 **Fraud Detection** – Decision Trees & Random Forest models.  
-- 🗂️ **Consumer Complaint Clustering** – NLP + KMeans on PROCON dataset.  
-- ☀️ **Solar Panel Defect Detection** – CNN + YOLO for classification and localization.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-📂 **Check my repositories:**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suellen-vieira&show_icons=true&theme=radical)](https://github.com/suellen-vieira)  
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suellenvieiradasilva/)
