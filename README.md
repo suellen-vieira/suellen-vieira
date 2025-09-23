@@ -3,7 +3,7 @@
 Data Scientist in training with a background in Physics (BSc and MSc). I'm passionate about deep learning, computer vision, and solving real-world problems. Experienced in regression, classification, clustering, and natural language processing. Currently working on solar panel defect detection using CNNs and YOLO. Always eager to learn and explore new technologies
 
 🎓 **Background:**  
-BSc in Physics and currently pursuing an MSc in Physics with a focus on **Quantum Computing** at the Federal University of Santa Catarina (UFSC).
+BSc and Msc in Physics with a focus on **Quantum Computing** at the Federal University of Santa Catarina (UFSC).
 
 💻 **Interests & Expertise:**  
 - Machine Learning & Deep Learning  
